@@ -1,0 +1,17 @@
+.developer {
+    width: 450px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    background-color: #fc2020;
+    opacity: 0.5;
+    margin-bottom: 20px;
+}
+
+.midle {
+    border-left: 2px solid #257fa8;
+    border-right: 2px solid #257fa8;
+    padding: 5px 20px 5px 20px;
+}
